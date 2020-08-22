@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🔭 I'm currently working for [Tracim](https://github.com/tracim/tracim)
+🔭 I'm currently working for [Tracim](https://github.com/tracim/tracim)
 
 <!--
 **metzgegu/metzgegu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
