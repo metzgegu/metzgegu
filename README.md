@@ -1,3 +1,3 @@
 ### Hello there 👋
 
-🔭 I'm currently working for [Tracim](https://github.com/tracim/tracim)
+🔭 I'm currently finishing my studies
