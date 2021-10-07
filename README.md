@@ -8,7 +8,7 @@
 
   <a class="dailyDev__card" href="https://app.daily.dev/metzgegu" target="_blank">
     <img 
-        src="https://api.daily.dev/devcards/35178b465aef44de9bbd106570b60e13.png?r=m0m" 
+        src="https://raw.githubusercontent.com/metzgegu/metzgegu/master/devcard.svg"
         width="256"
         align="center"
         alt="Guillaume Metzger's Dev Card"
