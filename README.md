@@ -4,8 +4,6 @@
 
   🔭 I'm currently working for [Wizbii](https://www.wizbii.com/) as a front-end developer
 
-  <br />
-
   
 
   <a class="dailyDev__card" href="https://app.daily.dev/metzgegu" target="_blank">
